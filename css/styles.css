@@ -135,7 +135,7 @@ img {
 
 .section-main {
     background-color: #2e2f42;
-    height: 600px;
+    /*height: 600px;*/
     padding: 188px 0;
 }
 
@@ -259,7 +259,7 @@ img {
 }
 
 .portfolio-item {
-    height: 420px;
+    /*height: 420px;*/
     width: calc((1128px - 24px * 2) / 3);
 }
 
